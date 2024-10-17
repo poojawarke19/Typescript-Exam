@@ -1,0 +1,23 @@
+Typescript Programming Language Exam
+
+Q. Write a TypeScript function that can add, subtract, multiply, divide and find the remainder of two numbers.
+
+1. Frist define the add function to do addition of two numbers.
+   then define the two parameters and use the return function, then 
+   give the command for addition:
+      console.log('The sum of 10 and 22 is: ${add(10,22)}');
+
+2. Again define the subtract function to do subtraction of two numbers.
+   then define the two parameters and use the return function, then 
+   give the command for subtraction:
+      console.log('The subtraction of 22-10 is: ${subtract(22,10)}');
+
+3. Then define the multiply function to do multiplication of two numbers.
+   then define the two parameters and use the return function, then 
+   give the command for multiplication:
+      console.log('The product pf 6 and 5 is: ${multiply(6*5)}');
+
+4. Save the file and open the git bash terminal and give the following command.
+     tsc file.ts
+     node file.ts
+
